@@ -334,6 +334,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Clojars](https://github.com/Bigsy/Clojars-MCP-Server)** - Obtains latest dependency details for Clojure libraries.
 - **[clojure-mcp](https://github.com/bhauman/clojure-mcp)** - Clojure development tools, direct access to the running program via REPL.
 - **[CockroachDB](https://github.com/amineelkouhen/mcp-cockroachdb)** - A Model Context Protocol server for managing, monitoring, and querying data in [CockroachDB](https://cockroachlabs.com).
+- **[CodeSentinel](https://github.com/icohangar-ops/codesentinel)** - Codebase health analysis: dead code, circular dependencies, coupling, and architectural drift.
 - **[Codesys-mcp-toolkit](https://github.com/johannesPettersson80/codesys-mcp-toolkit)** - A Model Context Protocol (MCP) server for CODESYS V3 programming environments.
 - **[CoinCap](https://github.com/QuantGeekDev/coincap-mcp)** - A MCP server that provides real-time cryptocurrency market data through CoinCap's public API without requiring authentication
 - **[Comet Opik](https://github.com/comet-ml/opik-mcp)** - MCP server to talk to your [Opik](https://github.com/comet-ml/opik) cloud or open-source instance to query and analyze LLM traces, metrics and observability.
